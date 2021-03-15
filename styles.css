@@ -1,0 +1,30 @@
+* {
+  background-color: rgb(243, 244, 245);
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.menu-container {
+  height: 60px;
+  border: solid rgb(199, 199, 199);
+  border-width: 0 0 2px 0;
+  background-color: rgb(243, 244, 245);
+  display: flex;
+}
+
+.menu {
+  display: flex;
+  padding: 0;
+  align-items: center;
+  list-style-type: none;
+}
+
+.logo {
+  padding-left: 5px;
+}
+
+.tab { 
+  margin-left: 20px; 
+}
